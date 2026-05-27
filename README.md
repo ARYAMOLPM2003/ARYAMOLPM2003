@@ -55,20 +55,11 @@ An intelligent web-based system that detects vehicle damage from images, estimat
 
 ---
 
-## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ARYAMOLPM2003&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARYAMOLPM2003&layout=compact&theme=radical)
-
----
 
 ## 🤝 Connect With Me
 
 📧 **Email:** [aryamolpm6@gmail.com](mailto:aryamolpm6@gmail.com)
 
-Feel free to reach out for collaborations, discussions on ML/Data Science, or anything interesting!
 
----
-
-**⭐ If you find my projects interesting, feel free to star them!**
+**⭐ Always learning and building my future!**
