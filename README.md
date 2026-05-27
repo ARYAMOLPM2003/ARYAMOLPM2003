@@ -59,7 +59,7 @@ An intelligent web-based system that detects vehicle damage from images, estimat
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [](mailto:aryamolpm6@gmail.com)
+📧 **Email:** [aryamolpm6@gmail.com](mailto:aryamolpm6@gmail.com)
 
 
 **⭐ Always learning and building my future!**
